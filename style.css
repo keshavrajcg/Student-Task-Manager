@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+    font-size: larger;
+    color: white;
+    
+}
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+
+}
+
+button{
+    height: 50px;
+    width: 100px;
+    background-color: greenyellow;
+}
